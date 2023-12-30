@@ -6,7 +6,7 @@
 
     **1.** Create a _[Customer PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Customer%20Performance%20Report.pdf)_
 
-  **2.** Create a _[Product PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Product%20Performance%20Report.pdf) 
+  **2.** Create a [Product PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Product%20Performance%20Report.pdf) 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
