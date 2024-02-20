@@ -1,6 +1,7 @@
 # AtliQ-Hardware-Sales-Analysis-with-Excel
 ## Sales Report :
 
+Presenting you my first data analysis project
 
 - **Project objective:** 
 
