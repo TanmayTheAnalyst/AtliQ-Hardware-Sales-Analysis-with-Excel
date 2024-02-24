@@ -1,19 +1,24 @@
 # AtliQ-Hardware-Sales-Analysis-with-Excel
-## Sales Report :
 
-Presenting you my first data analysis project
+## Overview
+
+AtliQ Hardwares which is leading company in manufacturing hardwares like desktop,mouse,pcs,laptops,etc and they sell products to customers like chroma,BestBuy, Staples,etc and these customers will sell these products to end consumers which are common people.
+As a data analyst my purpose was to look into the intricate details of sales data, so that AtliQ Hardwares can unlock valuable insights that drive strategic decision-making and propel growth. 
+
+## Sales Report :
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Customer%20Performance%20Report.pdf)_
+    1.[Customer PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Customer%20Performance%20Report.pdf)_
 
-  **2.** Create a [Product PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Product%20Performance%20Report.pdf) 
+  2.[Product PerformanceReport](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/Product%20Performance%20Report.pdf) 
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+### Importance
+- Sales analytics provides tools and insights that enable businesses to oversee and assess their sales operations effectively.
+- It helps in keeping a close eye on sales processes and performance metrics to identify areas for improvement.
+- By tracking key performance indicators like sales volume and revenue, businesses can measure progress and make informed decisions.
+- Analyzing sales data reveals trends and patterns, helping businesses understand customer behavior and market dynamics.
+- Reports generated from sales analytics aid in determining the best discount strategies to attract and retain customers.
 
 ## Finance Report :
 
@@ -25,8 +30,17 @@ Presenting you my first data analysis project
 
   **3.** Create Gross Margin Percentage reports by [SubZone](https://github.com/TanmayTheAnalyst/AtliQ-Hardware-Sales-Analysis-with-Excel/blob/main/GM%25%20by%20Sub%20Zones.pdf)
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+### Importance 
+- Analyzing finance data allows businesses to compare their performance against industry peers and previous periods, providing benchmarks for improvement.
+- Finance data serves as the foundation for creating accurate budgets and forecasts, helping businesses plan for future growth and challenges effectively.
+- Reports generated from finance data ensure that financial planning aligns with the organization's strategic objectives, optimizing resource allocation and investment decisions.
+- By presenting clear and transparent financial information, reports instill confidence in stakeholders regarding the organization's financial stability and prospects for growth.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+# Learnings
+- Basic formulas and statistics.
+- VLOOKUP and XLOOKUPs.
+- Understood ETL process i.e how to extract data from the source, transform or cleaning the data and then loading the data in order to  create visualization.
+- Pivot charts 
+- Power Pivot and DAX measures.
+- Creating relationships thereby linking the tables.
+- Conditional formatting by using icons, bars,etc
